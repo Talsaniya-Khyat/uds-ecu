@@ -1,12 +1,6 @@
-Here is an interactive and informative `README.md` file for your new GitHub project. This file is written in GitHub-flavored Markdown and is ready to be copied directly into your repository.
-
------
-
-````markdown
 # PyUDSim: A High-Fidelity UDS ECU Simulator
 
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Status](https://img.shields.io/badge/status-stable-green.svg)
 
 A powerful, multi-ECU UDS (ISO 14229-1) simulator in Python for automotive security testing, research, and development.
@@ -267,11 +261,4 @@ Pull Requests are welcome\! If you add a new feature or fix a bug, please feel f
 4.  Push to the branch (`git push origin feature/AmazingFeature`).
 5.  Open a Pull Request.
 
------
 
-## 📝 License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
-
-```
-```
